@@ -1,6 +1,6 @@
 # {{date:YYYY-MM-DD}}
 
-## Hoy aprendí
+## Today I learned
 
 ```dataview
 LIST
@@ -11,13 +11,21 @@ SORT file.ctime DESC
 
 ---
 
-## Notas del día
+## Chess Rush
+
+| Score | Time |
+|-------|------|
+|       |      |
+
+---
+
+## Notes
 
 -
 
 ---
 
-## Reflexión
+## Reflection
 
 >
 
