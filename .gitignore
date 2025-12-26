@@ -1,0 +1,19 @@
+# Obsidian - Archivos que cambian constantemente
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlinks.json
+
+# Caché de plugins
+.obsidian/plugins/obsidian-git/data.json
+
+# Papelera de Obsidian
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp

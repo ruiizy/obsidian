@@ -1,0 +1,21 @@
+The interviewer will make assessment of you performance, usually based on the following:
+- **Analitical skills**: 
+	- Did you need much help solving the problem?
+	- How optimal was your solution?
+	- How long did it take you to arrive at a solution?
+	- If you had to design/architect a new solution, did you structure the problem well an think through the tradeoffs of different desicions?
+- **Coding skills**: 
+	- Were you able to successfully translate your algorithm yo reasonable code? 
+	- Was it clean and well-organized? 
+	- Did you think about potential errors?
+	- Did you use good style?
+- **Technical knowledge / Computer Science fundamentals**:
+	- Do you have strong foundation in computer science and the relevant technologies?
+- **Experience:** 
+	- Have you made good technical decisions in the past? 
+	- Have you built interesting, challenging projects? 
+	- Have you shown drive, initiative and other important factors?
+- **Culture fit / Communication skills:** 
+	- Do your personality and values fir the company and team
+	- Did you communicate well with your interviewer?
+	

@@ -1,0 +1,1 @@
+Las constantes en un algoritmo de Big O no cuentan 
